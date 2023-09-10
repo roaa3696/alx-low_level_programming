@@ -10,11 +10,13 @@
 int main(void)
 {
     int i;
-    char alpha[24] = "abcdfghijklmnopurstuvwxyz";
 
-    for (i = 0; i < 24; i++)
+    for (i = 97; i < 123; i++)
     {
-        putchar(alpha[i]);
+        if (i = 101 && i !=113)
+        {
+        putchar(i);
+        }
     }
     putchar('\n');
     return 0;
