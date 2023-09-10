@@ -1,6 +1,9 @@
 #include <stdio.h>
 
-// print lower and upper case alphabets
+/**
+*print lower and upper case alphabets
+* return = 0
+*/
 
 int main (void)
 {
