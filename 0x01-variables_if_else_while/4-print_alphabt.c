@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 
 /**
  * print alphabet except q && e
@@ -7,8 +9,8 @@
 
 int main(void)
 {
-    int i = 0;
-    char alpha[24]="abcdfghijklmnopurstuvwxyz";
+    int i;
+    char alpha[24] = "abcdfghijklmnopurstuvwxyz";
 
     for (i = 0; i < 24; i++)
     {
