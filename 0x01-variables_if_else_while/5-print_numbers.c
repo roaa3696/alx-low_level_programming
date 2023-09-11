@@ -1,9 +1,10 @@
 #include <stdio.h>
 
-/*
- * print numbers from 0 - 9
- * return = 0
-*/
+/**
+ * main - print numbers from 0 - 9
+ *
+ * Return: Always 0 (Success)
+ */
 
 int main(void)
 {

@@ -1,9 +1,10 @@
 #include <stdio.h>
 
 /**
-*print lower and upper case alphabets
-* return = 0
-*/
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ */
 
 int main (void)
 {

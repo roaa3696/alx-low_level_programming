@@ -3,10 +3,10 @@
 #include <string.h>
 
 /**
- * print alphabet except q && e
- * 
- * return = 0
-*/
+ * main - print alphabets except q && e
+ *
+ * Return: Always 0 (Success)
+ */
 
 int main(void)
 {

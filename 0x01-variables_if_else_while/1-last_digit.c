@@ -3,9 +3,10 @@
 #include <time.h>
 
 /**
- * prints the last digit of a random no,
- *  and determines whether it's greater than 5, less than 6 or zero 
-*/
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ */
 
 int main(void)
 {

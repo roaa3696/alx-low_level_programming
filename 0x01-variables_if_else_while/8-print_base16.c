@@ -1,7 +1,9 @@
 #include <stdio.h>
+
 /**
- * print numbers between 0-9 and letters a-f
- * return = 0
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
  */
 
 int main (void)
