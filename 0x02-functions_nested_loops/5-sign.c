@@ -20,10 +20,10 @@ int print_sign(int n) {
 
 int main() {
     int number;
+    int result = print_sign(number);
+
     printf("Enter a number: ");
     scanf("%d", &number);
-
-    int result = print_sign(number);
 
     printf("\nSign of %d is %d\n", number, result);
 
