@@ -1,3 +1,4 @@
+/* 2-mul.c*/
 #include "main.h"
 #include <stdio.h>
 
