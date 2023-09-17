@@ -5,6 +5,8 @@
  *
  * Return: Always 0.
  */
+void print_square(int);
+
 int main(void)
 {
     print_square(2);

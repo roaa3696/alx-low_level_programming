@@ -5,6 +5,8 @@
  *
  * Return: Always 0.
  */
+void print_diagonal(int);
+
 int main(void)
 {
     print_diagonal(0);

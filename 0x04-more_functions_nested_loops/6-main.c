@@ -5,6 +5,8 @@
  *
  * Return: Always 0.
  */
+void print_line(int);
+
 int main(void)
 {
     print_line(0);
