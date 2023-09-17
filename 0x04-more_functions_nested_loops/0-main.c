@@ -6,7 +6,7 @@
  *
  * Return: Always 0.
  */
-int _putchar(char);
+int _isupper(int);
 
 int main(void)
 {
