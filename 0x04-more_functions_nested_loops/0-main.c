@@ -6,6 +6,8 @@
  *
  * Return: Always 0.
  */
+int _isupper(int);
+
 int main(void)
 {
     char c;
