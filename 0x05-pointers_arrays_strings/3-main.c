@@ -5,7 +5,7 @@
  *
  * Return: Always 0.
  */
-void_puts(char *str);
+void _puts(char *str);
 
 int main(void)
 {
