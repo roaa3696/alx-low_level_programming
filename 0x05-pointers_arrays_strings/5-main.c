@@ -6,7 +6,7 @@
  *
  * Return: Always 0.
  */
-void puts2(char *str);
+void rev_string(char *s);
 
 int main(void)
 {
